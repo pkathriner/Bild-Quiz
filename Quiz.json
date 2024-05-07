@@ -1,7 +1,33 @@
-{
-  "adler": "https://raw.githubusercontent.com/pkathriner/Bild-Quiz/main/adler.png",
-  "boy": "https://raw.githubusercontent.com/pkathriner/Bild-Quiz/main/boy.png",
-  "katze": "https://raw.githubusercontent.com/pkathriner/Bild-Quiz/main/katze.jpg",
-  "vogel": "https://raw.githubusercontent.com/pkathriner/Bild-Quiz/main/vogel.jpg",
-  "affe": "https://raw.githubusercontent.com/pkathriner/Bild-Quiz/main/Affe.jpg"
-}
+
+[
+  {
+    "question": "Welches Tier ist das?",
+    "image_url": "https://raw.githubusercontent.com/pkathriner/Bild-Quiz/main/adler.png",
+    "options": ["Adler", "Boy", "Katze", "Vogel", "Affe"],
+    "correct": 0
+  },
+  {
+    "question": "Welches Tier ist das?",
+    "image_url": "https://raw.githubusercontent.com/pkathriner/Bild-Quiz/main/boy.png",
+    "options": ["Adler", "Boy", "Katze", "Vogel", "Affe"],
+    "correct": 1
+  },
+   {
+    "question": "Welches Tier ist das?",
+    "image_url": "https://raw.githubusercontent.com/pkathriner/Bild-Quiz/main/katze.jpg",
+    "options": ["Adler", "Boy", "Katze", "Vogel", "Affe"],
+    "correct": 2
+  },
+   {
+    "question": "Welches Tier ist das?",
+    "image_url": "https://raw.githubusercontent.com/pkathriner/Bild-Quiz/main/vogel.jpg",
+    "options": ["Adler", "Boy", "Katze", "Vogel", "Affe"],
+    "correct": 3
+  },
+   {
+    "question": "Welches Tier ist das?",
+    "image_url": "https://raw.githubusercontent.com/pkathriner/Bild-Quiz/main/Affe.jpg",
+    "options": ["Adler", "Boy", "Katze", "Vogel", "Affe"],
+    "correct": 4
+  },
+]
