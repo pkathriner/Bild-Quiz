@@ -1,7 +1,7 @@
 {
-  "adler": "https://drive.google.com/uc?export=view&id=ID_für_Adler",
-  "boy": "https://drive.google.com/uc?export=view&id=ID_für_Boy",
-  "katze": "https://drive.google.com/uc?export=view&id=ID_für_Katze",
-  "vogel": "https://drive.google.com/uc?export=view&id=ID_für_Vogel",
-  "affe": "https://drive.google.com/uc?export=view&id=ID_für_Affe"
+  "adler": "https://raw.githubusercontent.com/pkathriner/Bild-Quiz/main/adler.png",
+  "boy": "https://raw.githubusercontent.com/pkathriner/Bild-Quiz/main/boy.png",
+  "katze": "https://raw.githubusercontent.com/pkathriner/Bild-Quiz/main/katze.jpg",
+  "vogel": "https://raw.githubusercontent.com/pkathriner/Bild-Quiz/main/vogel.jpg",
+  "affe": "https://raw.githubusercontent.com/pkathriner/Bild-Quiz/main/Affe.jpg"
 }
