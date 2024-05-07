@@ -29,5 +29,5 @@
     "image_url": "https://raw.githubusercontent.com/pkathriner/Bild-Quiz/main/Affe.jpg",
     "options": ["Adler", "Boy", "Katze", "Vogel", "Affe"],
     "correct": 4
-  },
+  }
 ]
